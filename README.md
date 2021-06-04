@@ -1,7 +1,3 @@
-## Grading
+*Please download the file to view the completed work. 
 
-* Follow the [excel_grading_rubric.pdf](../Instructions/excel_grading_rubric.pdf) for grading instructions.
-
-## Bug Report
-
-[Having issues with this homework? Report a bug!](https://bit.ly/39SiFFV)
+[README.md](https://github.com/AJ-Data06/MonashDataAnalytics-/files/6595331/README.md)
